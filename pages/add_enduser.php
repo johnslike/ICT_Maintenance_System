@@ -724,11 +724,8 @@ if(isset($userdetails)){
         <!-- /.modal-dialog -->
       </div>
       <!-- /.modal -->
-
-
-
-      <?php echo "sample echo"; ?>
-
+     
+            
 
 
 
