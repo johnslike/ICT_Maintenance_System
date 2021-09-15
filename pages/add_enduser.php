@@ -725,7 +725,6 @@ if(isset($userdetails)){
       </div>
       <!-- /.modal -->
      
-        <?php echo "merge request;" ?>
 
 
 
