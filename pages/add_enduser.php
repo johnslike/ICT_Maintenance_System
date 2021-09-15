@@ -727,6 +727,10 @@ if(isset($userdetails)){
 
 
 
+      <?php echo "sample echo"; ?>
+
+
+
 
   <!-- /.content-wrapper -->
   <footer class="main-footer">
@@ -944,7 +948,6 @@ function random_function()
                 }
                 document.getElementById("output2").innerHTML=string;
             }
-
 
 
           
